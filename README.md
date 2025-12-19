@@ -30,7 +30,6 @@ videojuegos
 
 ### 2. Tipos de gravedad
 
-No aplica.  
 El sistema maneja videojuegos y sus bugs, los cuales se clasifican según su nivel de gravedad: **Baja, Media, Alta y Crítica**.
 
 ---
