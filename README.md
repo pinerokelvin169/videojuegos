@@ -3,7 +3,7 @@
 **Estudiante:** Kelvin Piñero  
 **Fecha:** 19/12/2025  
 **Paralelo:** 2
-
+https://github.com/pinerokelvin169/videojuegos
 ---
 
 ## Decisiones de Diseño
