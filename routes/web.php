@@ -1,7 +1,11 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\VideojuegosController;
+
 
 Route::get('/', function () {
-    return view('welcome');
+    return redirect('/videojuegos');
 });
+
+Route::resource('videojuegos', VideojuegosController::class);
